@@ -1,0 +1,29 @@
+h1 {
+    font-family:anton;
+}
+body {
+    text-align:center;
+   background-color:red;
+}
+img {
+    height:600px;
+    width:600px;
+}
+html {
+    scroll-behavior: smooth;
+}
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family:cursive;
+    font-size: 20px;
+    display:inline;
+}
+.links:hover
+{
+    text-decoration: underline;
+    font-size: 25px;
+}
+center {
+    background-color: white;
+}
